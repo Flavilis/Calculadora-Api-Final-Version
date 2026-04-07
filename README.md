@@ -1,6 +1,6 @@
 # 🧮 Calculadora API com FastAPI
 
-> Projeto avaliativo desenvolvido para a disciplina **Programação de Sistemas Distribuídos** da Universidade dos Grandes Lagos (UNILAGO), sob supervisão do Professor Gleydes Oliveira.
+> Projeto avaliativo desenvolvido para a disciplina **Programação de Sistemas Distribuídos** da Universidade dos Grandes Lagos (UNILAGO), sob supervisão do Professor Gleydes Oliveira.Segue perfil do professor Gleydes (https://github.com/gleydes).
 
 ---
 
